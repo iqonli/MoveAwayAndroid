@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveAwayAndroid", "MoveAwayAndroid\MoveAwayAndroid.csproj", "{FB2F85C2-B298-4377-8510-33E6FF4196C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB2F85C2-B298-4377-8510-33E6FF4196C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB2F85C2-B298-4377-8510-33E6FF4196C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB2F85C2-B298-4377-8510-33E6FF4196C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB2F85C2-B298-4377-8510-33E6FF4196C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {257F1177-2E35-42B0-B28F-391506E7AEBC}
+	EndGlobalSection
+EndGlobal

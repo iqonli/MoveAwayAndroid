@@ -1,0 +1,10 @@
+C:\Users\PerryDing\source\repos\MoveAwayAndroid\MoveAwayAndroid\bin\Release\MoveAwayAndroid.exe.config
+C:\Users\PerryDing\source\repos\MoveAwayAndroid\MoveAwayAndroid\bin\Release\MoveAwayAndroid.exe
+C:\Users\PerryDing\source\repos\MoveAwayAndroid\MoveAwayAndroid\bin\Release\MoveAwayAndroid.pdb
+C:\Users\PerryDing\source\repos\MoveAwayAndroid\MoveAwayAndroid\obj\Release\MoveAwayAndroid.csproj.AssemblyReference.cache
+C:\Users\PerryDing\source\repos\MoveAwayAndroid\MoveAwayAndroid\obj\Release\MoveAwayAndroid.Form1.resources
+C:\Users\PerryDing\source\repos\MoveAwayAndroid\MoveAwayAndroid\obj\Release\MoveAwayAndroid.Properties.Resources.resources
+C:\Users\PerryDing\source\repos\MoveAwayAndroid\MoveAwayAndroid\obj\Release\MoveAwayAndroid.csproj.GenerateResource.cache
+C:\Users\PerryDing\source\repos\MoveAwayAndroid\MoveAwayAndroid\obj\Release\MoveAwayAndroid.csproj.CoreCompileInputs.cache
+C:\Users\PerryDing\source\repos\MoveAwayAndroid\MoveAwayAndroid\obj\Release\MoveAwayAndroid.exe
+C:\Users\PerryDing\source\repos\MoveAwayAndroid\MoveAwayAndroid\obj\Release\MoveAwayAndroid.pdb
